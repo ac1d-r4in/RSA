@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RSA": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project"
+    }
+  }
+}

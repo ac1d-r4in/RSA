@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fXY6PALuA7D/+8sFncigFbQab2axsf2vc5oJgFm1JdqbdH50NUCiUt4IdHnLZgIEg2lBcu2lyH2CKTP7g55aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GLEB\\Downloads\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GLEB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\GLEB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\GLEB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\GLEB\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
